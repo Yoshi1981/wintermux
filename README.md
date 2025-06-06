@@ -14,7 +14,7 @@ Script For Install Windows In Android By Termux. Without Root.
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/wintermux`
+`$ git clone https://github.com/Yoshi1981/wintermux.git`
 
 `$ cd wintermux`
 
